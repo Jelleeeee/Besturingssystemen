@@ -5,4 +5,15 @@ Opdracht 4:
 4. echo $(seq -s'#' 1 10)
 
 Opdracht 5:
-1. 
+1. nano gisteren.txt
+2. Door het command 'cat gisteren.txt gisteren.txt' uit te voeren wordt het txt bestand twee keer achter elkaar in de terminal geprint.
+3. Met het command 'cat gisteren.txt gisteren.txt gisteren.txt > gisteren3.txt' te gebruiken wordt gisteren.txt 3 keer in het nieuwe bestand gisteren3.txt gezet.
+4. Pagina omlaag: z
+   Pagina omhoog: w
+   Eind van het bestand: G
+   Begin van het bestand: g
+   Woord zoeken: /(woord)
+   Volgende instantie van hetzelfde woord gaan: n
+   Het programma verlaten: q
+5. ping -i.2 localhost | less
+6. 
