@@ -1,1 +1,8 @@
+Opdracht 4: 
+1. Less zorgt ervoor dat files en command output per pagina wordt weergegeven in de terminal.
+2. De flag -f bij het commando tail wordt gebruikt om het bestand continu te blijven monitoren en te wachten op nieuwe data.
+3. Met het commando help krijg je alle commando's te zien die je kunt gebruiken.
+4. echo $(seq -s'#' 1 10)
 
+Opdracht 5:
+1. 
